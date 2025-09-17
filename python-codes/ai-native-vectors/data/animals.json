@@ -1,0 +1,8 @@
+[
+  {"name": "Cat", "type": "Mammal"},
+  {"name": "Dog", "type": "Mammal"},
+  {"name": "Eagle", "type": "Bird"},
+  {"name": "Lizard", "type": "Reptiles"},
+  {"name": "Fish", "type": "Aquatic"},
+  {"name": "Sparrow", "type": "Bird"},
+]
